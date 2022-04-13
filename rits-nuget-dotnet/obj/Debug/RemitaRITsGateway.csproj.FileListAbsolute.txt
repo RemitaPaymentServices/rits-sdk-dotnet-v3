@@ -1,0 +1,9 @@
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\obj\Debug\RemitaRITsGateway.csproj.AssemblyReference.cache
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\obj\Debug\RemitaRITsGateway.csproj.CoreCompileInputs.cache
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\bin\Debug\RemitaRITsGateway.exe
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\bin\Debug\RemitaRITsGateway.pdb
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\bin\Debug\Newtonsoft.Json.dll
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\bin\Debug\Newtonsoft.Json.xml
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\obj\Debug\RemitaRITsGateway.csproj.CopyComplete
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\obj\Debug\RemitaRITsGateway.exe
+D:\IYARE\rits-sdk-dotnet-v3\rits-nuget-dotnet\obj\Debug\RemitaRITsGateway.pdb
