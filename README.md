@@ -16,7 +16,7 @@ The workflow to getting started on RITs is as follows:
 
 **Sample Demo Code:**
 ```java
- public class TestRemitaRITsServices
+	public class TestRemitaRITsServices
     {
         static void Main(string[] args)
         {
@@ -168,8 +168,9 @@ The workflow to getting started on RITs is as follows:
             return newUniqueId;
         }
 
-    } 
-	```
+    }
+	
+```
 
 ## Useful links
 * Join our Slack channel at http://bit.ly/RemitaDevSlack
