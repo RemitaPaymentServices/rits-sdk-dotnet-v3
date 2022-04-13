@@ -11,7 +11,8 @@ The workflow to getting started on RITs is as follows:
 * .NET 2.0 or later
 
 ## Running the application
-Clone project, review and run https://github.com/RemitaNet/rits-sdk-dotnet-v3/blob/main/rits-nuget-dotnet/Com/Systemspecs/Paymentinfra/TestRemitaRITsServices.cs
+*  Clone project, review and run:
+   https://github.com/RemitaNet/rits-sdk-dotnet-v3/blob/main/rits-nuget-dotnet/Com/Systemspecs/Paymentinfra/TestRemitaRITsServices.cs
 
 ## Useful links
 * Join our Slack channel at http://bit.ly/RemitaDevSlack
