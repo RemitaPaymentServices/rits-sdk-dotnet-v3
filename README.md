@@ -6,6 +6,7 @@ The workflow to getting started on RITs is as follows:
 
 *  Register a profile on Remita: You can visit [Remita](https://login.remita.net) to sign-up if you are not already registered as a merchant/biller on the platform.
 *  Receive the Remita credentials that certify you as a Biller: Remita will send you your merchant ID and an API Key necessary to secure your handshake to the Remita platform.
+*  
 ## Requirements
 *  Microsoft Visual Studio 
 * .NET 2.0 or later
